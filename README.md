@@ -1,4 +1,4 @@
-# Project Duex
+# Project 2
 
 #### What coding language should I learn?
 
@@ -18,9 +18,9 @@ A quiz form to help people figure out which coding language to learn
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop
-* https://github.com/julienleonardo/projectduex.git
+* https://github.com/julienleonardo/project2.git
 * Navigate to the top level of the directory to open remotely 
-* OR click this URL to see it in your browser: https://julienleonardo.github.io/projectduex/
+* OR click this URL to see it in your browser: https://julienleonardo.github.io/project2/
 
 ## Known Bugs
 
