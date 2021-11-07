@@ -1,6 +1,6 @@
-# Project 2
+# Project Duex
 
-#### Portfolio for Julien Leonardo
+#### What coding language should I learn?
 
 #### By Julien Leonardo
 
@@ -13,14 +13,14 @@
 
 ## Description
 
-An explanation of work and credentials as a student at Epicodus
+A quiz form to help people figure out which coding language to learn
 
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop
-* https://github.com/julienleonardo/project2.git
+* https://github.com/julienleonardo/projectduex.git
 * Navigate to the top level of the directory to open remotely 
-* OR click this URL to see it in your browser: https://julienleonardo.github.io/project2/
+* OR click this URL to see it in your browser: https://julienleonardo.github.io/projectduex/
 
 ## Known Bugs
 
