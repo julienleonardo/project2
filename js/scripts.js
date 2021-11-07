@@ -9,6 +9,8 @@ $(document).ready(function() {
       } else if (lang === "c") {
         $(".c").toggle();
       }
+
     });
   });
   
+  const lang = $("#lang").val();
