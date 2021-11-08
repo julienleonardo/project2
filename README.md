@@ -6,9 +6,10 @@
 
 ## Technologies Used
 
-* HTML
+* JQuery 3.6.0
 * CSS
-* Javascript
+* HTML
+
  
 
 ## Description
